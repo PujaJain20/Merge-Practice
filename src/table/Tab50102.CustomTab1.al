@@ -29,6 +29,14 @@ table 50102 CustomTab1
         {
             DataClassification = ToBeClassified;
         }
+        field(6; a; Integer)
+        {
+            DataClassification = ToBeClassified;
+        }
+        field(7; b; Integer)
+        {
+            DataClassification = ToBeClassified;
+        }
     }
 
     keys

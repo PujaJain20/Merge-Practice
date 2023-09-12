@@ -16,7 +16,6 @@ table 50100 Practice
 
 
 
-    var
-        cust: Record Customer;
+
 
 }
